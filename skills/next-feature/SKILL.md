@@ -31,7 +31,7 @@ Keep the smallest useful version intact. Name its entry point, essential behavio
 
 ## Deliver a short decision
 
-Default to **220 words or fewer**. For a requested list, give each item a compact capability/example and rationale; expand the plan for the recommended item unless plans for every item were requested. Detailed requests override the default length.
+Default to **180 words or fewer**. For a requested list, give each item a compact capability/example and rationale; expand the plan for the recommended item unless plans for every item were requested. Detailed requests override the default length.
 
 - **Feature:** Plain name and one concrete before/after example.
 - **Why this next:** Product-specific evidence, expected benefit and the main uncertainty or tradeoff.

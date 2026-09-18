@@ -34,10 +34,10 @@ Distinguish observed defects, preferences and testable hypotheses in ordinary la
 
 ## Return a compact review
 
-Default 250–400 words; shorter when sufficient. User-requested depth/count overrides this budget.
+Default 180–260 words; shorter when sufficient. User-requested depth/count overrides this budget.
 
 1. **Verdict:** one sentence on readiness, goal and key limitation if any.
-2. **Five lenses:** name each, wildcard identified; 1–2 short sentences per lens.
+2. **Five lenses:** name each, wildcard identified; one short sentence per lens; a second only when essential.
 3. **Keep:** one specific strength worth protecting.
 4. **Next:** up to three concrete changes in impact order. Synthesize; don't repeat the five observations.
 5. **Test:** only when a meaningful uncertainty needs audience or product evidence. Name a comparison and observable outcome, not a made-up target.

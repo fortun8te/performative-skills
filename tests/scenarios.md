@@ -25,3 +25,15 @@ These are regression prompts and expected behavior, not claims of a measured mod
 8. A bug blocks the core task: label a repair as a repair rather than pretending it is a new feature.
 
 Structural validation and manual walkthroughs are initial checks. Future quality comparisons should run the same fixtures with the same model/settings, assess grounded specificity and usefulness blind, and record actual input/output tokens and latency.
+
+## Nichemaxx
+
+1. One bright, uneasy photographic reference: find a specific verified work and useful visual detail, not a generic dark-cinema moodboard.
+2. A colorful, energetic music request: honor the present request rather than old calm/neutral defaults. No forced creative assignment for a listening recommendation.
+3. A supplied fragment: extend its strongest relationship rather than replace the concept.
+4. A pin used for one detail: do not assign the entire image's palette, subject or identity to the user.
+5. A search-history clue: consider its context; neither discard it categorically nor assume it proves preference.
+6. An unavailable scene: do not invent a timestamp or claim to have viewed it.
+7. A familiar but useful reference: explain the fresh detail; obscurity is not compulsory.
+8. Private chat evidence: preserve authorship, source IDs and relevance; no private text in public queries or repository files.
+9. A request for more references: obey the count; default brevity is not a refusal to provide requested depth.
