@@ -1,4 +1,4 @@
-# Studio Skills
+# Performative Skills
 
 Three compact agent skills for better creative reviews and better product decisions.
 
@@ -42,7 +42,7 @@ Examples:
 - `nichemaxx: this track is close, but I want something less obvious with the same tension`
 - `nichemaxx: keep my concept, find one adjacent reference that could loosen it up`
 
-Personal archives are optional and stay local. When context is needed, the skill can read a private index at `~/.config/studio-skills/context.md` (or under `$XDG_CONFIG_HOME`). No personal archive or profile is included in this repository.
+Personal archives are optional and stay local. When context is needed, the skill can read a private index at `~/.config/performative-skills/context.md` (or under `$XDG_CONFIG_HOME`). No personal archive or profile is included in this repository.
 
 ## Install
 

@@ -1,6 +1,6 @@
 # Personal context, only when needed
 
-Look for an optional private index at `$XDG_CONFIG_HOME/studio-skills/context.md`, or `~/.config/studio-skills/context.md` when that variable is unset. Missing context is normal: use the conversation and ask only if needed. Do not search a person's whole disk just to answer a reference question.
+Look for an optional private index at `$XDG_CONFIG_HOME/performative-skills/context.md`, or `~/.config/performative-skills/context.md` when that variable is unset. Missing context is normal: use the conversation and ask only if needed. Do not search a person's whole disk just to answer a reference question.
 
 Read that short index, then retrieve 3–6 relevant records at most to start. Expand only to resolve a specific uncertainty. Reuse already loaded evidence. Keep source IDs and URLs available internally so an inference can be checked. Avoid loading entire timelines, chat histories or persona biographies.
 

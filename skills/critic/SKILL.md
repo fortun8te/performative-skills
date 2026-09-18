@@ -22,7 +22,7 @@ Read [cast.md](references/cast.md), then only the five selected cards. Four rele
 
 Prefer Jony Ive, Jonathan Anderson and Rick Rubin where their lenses contribute distinct findings. They are favorites, not compulsory seats. Choose the remaining expertise around the task: persuasion for ads, usability for apps, evidence for charts, language and human truth for narrative. Theo Von is the preferred wildcard when ordinary-language clarity matters; choose another when it adds more. No extra sixth audience persona: audience fit is every panel's obligation.
 
-For feed ads, check what is legible and understandable at realistic viewing size. Treat imagined scrolling reactions as hypotheses, never observed user behavior. For NanoX, apply its current brief and mostly 65+ audience; read its installed design skill when relevant. Personal taste never overrides an explicit brief.
+For feed ads, check what is legible and understandable at realistic viewing size. Treat imagined scrolling reactions as hypotheses, never observed user behavior. Apply the current brand brief and audience; read an installed brand design skill when relevant. Personal taste never overrides an explicit brief.
 
 ## Make each voice earn its place
 
